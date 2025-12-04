@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f19e0fbc8af0514bafc64ac264f7beb, type: 3}
+  m_Name: Wood
+  m_EditorClassIdentifier: 
+  itemType: 5
+  ConsumableType: 0
+  Equipmenttype: 0
+  EquipmentIndex: 0
+  itemSprite: {fileID: 1294868509, guid: 0cfaad3ab58d89c4597a41acd3eda181, type: 3}
+  Amount: 20
+  maxStackSize: 60
+  itemID: 10
+  buildPrefab: {fileID: 914587843496458419, guid: c54681a78a152804984d04fb3c0b8771, type: 3}
+  isSolid: 1
+  detectionLayer:
+    serializedVersion: 2
+    m_Bits: 64

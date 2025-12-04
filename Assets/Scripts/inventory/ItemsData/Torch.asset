@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f19e0fbc8af0514bafc64ac264f7beb, type: 3}
+  m_Name: Torch
+  m_EditorClassIdentifier: 
+  itemType: 5
+  ConsumableType: 0
+  Equipmenttype: 0
+  EquipmentIndex: 0
+  itemSprite: {fileID: -872165212, guid: cb24fc6b921e40240a864e1d6bdb0839, type: 3}
+  Amount: 20
+  maxStackSize: 30
+  itemID: 19
+  blockID: 7
+  buildPrefab: {fileID: 2040376559468135614, guid: 0292778009ddc904680088fb26755eec, type: 3}
+  isSolid: 0

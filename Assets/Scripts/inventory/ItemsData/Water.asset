@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f19e0fbc8af0514bafc64ac264f7beb, type: 3}
+  m_Name: Water
+  m_EditorClassIdentifier: 
+  itemType: 1
+  ConsumableType: 1
+  Equipmenttype: 0
+  EquipmentIndex: 0
+  itemSprite: {fileID: 21300000, guid: 694f33547da527e49b50f317e07bda24, type: 3}
+  Amount: 20
+  maxStackSize: 32
+  itemID: 17
+  blockID: 0
+  buildPrefab: {fileID: 0}
+  isSolid: 0
